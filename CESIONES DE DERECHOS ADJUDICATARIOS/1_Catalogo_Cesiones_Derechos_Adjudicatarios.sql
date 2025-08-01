@@ -1,3 +1,0 @@
-
-
-insert into ProcesoJudicial.ProcesoJudicial.CAT_TIPO_OPERACION_CTL_INMUEBLES (DESCRIPCION) values ('CESIONES DE DERECHOS ADJUDICATARIOS')
